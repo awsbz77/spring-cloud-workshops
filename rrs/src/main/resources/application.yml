@@ -1,0 +1,6 @@
+#server.port: 9080
+spring.application.name: Reactive Restful Service
+
+
+# Rabbitmq exchange frauds
+#spring.cloud.stream.bindings.frauds-in-0.destination: frauds
